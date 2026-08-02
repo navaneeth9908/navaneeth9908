@@ -45,9 +45,9 @@
 
 ## `$ cat stack.txt`
 
-**Core:** Python · SQL · PySpark · pandas · DuckDB  
-**Applications:** FastAPI · Streamlit · CLI tooling  
-**AI systems:** Agent workflows · RAG · NL2SQL · evaluations · guardrails  
+**Core:** Python · SQL · PySpark · pandas · DuckDB<br>
+**Applications:** FastAPI · Streamlit · CLI tooling<br>
+**AI systems:** Agent workflows · RAG · NL2SQL · evaluations · guardrails<br>
 **Delivery:** Docker · GitHub Actions · pytest · reproducible local demos
 
 ## `$ contact --open`
