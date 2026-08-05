@@ -2,7 +2,7 @@
 
 # Sai Navaneeth Thota
 
-**Data Engineer · Analytics Professional · Applied AI Builder**
+**AI Engineer · Analytics Professional · Applied AI Builder**
 
 *I build reliable data systems and evidence-first AI products that turn business questions into tested, reproducible answers.*
 
