@@ -1869,12 +1869,17 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation M
 <animate attributeName="y" from="109" to="118" begin="1.528s" dur="0.32s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="opacity" from="0" to="1" begin="1.528s" dur="0.28s" fill="freeze"/>
 </rect>
-<rect x="782" y="123" width="11" height="11" rx="2" fill="#21262d" opacity="0">
-<title>0 contributions on 2026-08-21</title>
+<rect x="782" y="123" width="11" height="11" rx="2" fill="#0e4429" opacity="0">
+<title>2 contributions on 2026-08-21</title>
 <animate attributeName="y" from="123" to="132" begin="1.540s" dur="0.32s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 <animate attributeName="opacity" from="0" to="1" begin="1.540s" dur="0.28s" fill="freeze"/>
 </rect>
-<text x="20" y="192" font-size="11" class="primary">198 contributions  ·  59 active days  ·  current streak 1d  ·  longest 19d</text>
+<rect x="782" y="137" width="11" height="11" rx="2" fill="#21262d" opacity="0">
+<title>0 contributions on 2026-08-22</title>
+<animate attributeName="y" from="137" to="146" begin="1.552s" dur="0.32s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+<animate attributeName="opacity" from="0" to="1" begin="1.552s" dur="0.28s" fill="freeze"/>
+</rect>
+<text x="20" y="192" font-size="11" class="primary">200 contributions  ·  60 active days  ·  current streak 2d  ·  longest 19d</text>
 <text x="681" y="213" font-size="9" class="muted">Less</text>
 <rect x="710" y="203" width="11" height="11" rx="2" fill="#21262d"/>
 <rect x="726" y="203" width="11" height="11" rx="2" fill="#0e4429"/>
@@ -1882,5 +1887,5 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation M
 <rect x="758" y="203" width="11" height="11" rx="2" fill="#26a641"/>
 <rect x="774" y="203" width="11" height="11" rx="2" fill="#39d353"/>
 <text x="797" y="213" font-size="9" class="muted">More</text>
-<text x="20" y="213" font-size="9" class="muted">Public data through 2026-08-21</text>
+<text x="20" y="213" font-size="9" class="muted">Public data through 2026-08-22</text>
 </svg>
